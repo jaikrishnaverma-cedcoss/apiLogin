@@ -1,0 +1,90 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  text-align: center;
+}
+.row{
+  display: flex;
+}
+.col{
+  display: flex;
+  flex-direction: column;
+}
+.flexAIC{
+  align-items: center;
+}
+.flexJCC{
+  justify-content: center;
+}
+.flexSB{
+  justify-content: space-between;
+}
+.flexSA{
+  justify-content: space-around;
+}
+.w100{
+  width: 100%;
+}
+.w95{
+  width: 95%;
+}
+.w28{
+width: 28%;
+}
+.hp2{
+  padding: 1.2% 2.5%;
+}
+.logo{
+  width: 40px;
+}
+.c1{
+  background-color: rgb(116, 116, 196);
+}
+.c2{
+  background-color: rgb(255, 255, 255);
+}
+.card{
+  border-radius: 5px;
+  padding: 30px;
+}
+.card img{
+  width: 150px;
+}
+.btn,input,.btnr{
+  border-radius: 4px;
+  padding: 10px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin: 10px 0px;
+}
+.inpu{
+  border: 2px solid #008b60;
+}
+.btn{
+  border: none;
+  color: white;
+  background: #008b60;
+}
+.rr{
+  border: 1px solid grey;
+  width: 45%;
+}
+.grey{
+  margin-bottom: 25px;
+  margin-top: 5px;
+  color: grey;
+  font-size: .9rem;
+}
+.btnr{
+  background-color: white;
+  font-weight: 500px;
+  border: 1px solid grey;
+}
+.btnr i{
+  font-size: 22px;
+}
+.user{
+border-radius: 50%;
+}
